@@ -1,0 +1,45 @@
+export const cards = [
+  {
+    src: "logo-language.svg",
+    alt: "Language Glyph",
+    title: "🛠 Languages",
+    desc: "Languages of Innovation: My Problem-Solving Arsenal.",
+    list: [ "Go", "Java",  "JavaScript","VB.net", "HTML/DHTML/CSS/SCSS"],
+    grad: "from-pink-600 to-purple-400",
+    sh: "pink-100",
+  },
+  {
+    src: "logo-db.svg",
+    alt: "Database Glyph",
+    title: "💾 Databases",
+    desc: "Data Havens: Where Information Finds Its Home",
+    list: ["SQL", "SQLite","MongoDB", "Firebase Firestore"],
+    grad: "from-blue-600 to-sky-500",
+    sh: "blue-100",
+  },
+  {
+    src: "logo-framework.svg",
+    alt: "Framework Glyph",
+    title: "🦄 Frameworks",
+    desc: "Crafting digital magic with top-tier frameworks...",
+    list: ["React.JS",  "Node.js","Bootstrap", "Tailwind", "Styled-Components"],
+    grad: "from-indigo-600 to-violet-500",
+    sh: "violet-100",
+  },
+  {
+    src: "logo-cube.svg",
+    alt: "Tools Glyph",
+    title: "🧰 Tools",
+    desc: "The elite tools that transform ideas into brilliance.",
+    grad: "from-red-600 to-pink-500",
+    sh: "red-100",
+    list: [
+      "Git & GitHub",
+      "Linux & Bash",
+      "VSC,  Eclipse, IntelliJ",
+      "WordPress, Joomla, WIX",
+      "AWS & Google Cloud",
+    ],
+  },
+  
+];
